@@ -1,0 +1,1 @@
+[!] Possible MITM attack detected! Real MAC: 00:50:56:fd:55:bd, Fake MAC: 00:50:56:2a:bb:f5

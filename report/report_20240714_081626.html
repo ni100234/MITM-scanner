@@ -1,0 +1,129 @@
+<html>
+<head>
+<title>Network Security Report</title>
+<style>
+body { font-family: Arial, sans-serif; background-color: #f0f0f0; padding: 20px; }
+.container { max-width: 1200px; margin: 0 auto; }
+h1, h2, h3 { color: #714674; }
+h1 { font-size: 28px; margin-bottom: 20px; }
+h2 { margin-top: 40px; border-bottom: 1px solid #cccccc; padding-bottom: 10px; font-size: 24px; }
+h3 { margin-top: 20px; font-size: 20px; }
+table { border-collapse: collapse; width: 100%; margin-bottom: 20px; }
+th, td { border: 1px solid #dddddd; text-align: left; padding: 12px; font-size: 16px; }
+th { background-color: #f2f2f2; }
+.highlight-green { background-color: #d4edda; color: #155724; }
+.highlight-red { background-color: #f8d7da; color: #721c24; }
+.highlight-orange { background-color: #fff3cd; color: #856404; }
+.section { margin-bottom: 30px; }
+.state-open { font-size: 18px; font-weight: bold; color: #007bff; }
+.log-entry { font-size: 14px; }
+.log-entry:nth-child(odd) { background-color: #f9f9f9; }
+.log-entry:nth-child(even) { background-color: #ffffff; }
+.report-info { float: right; font-size: 14px; }
+.remediation { color: #82C26E; }
+</style>
+</head>
+<body>
+<div class='container'>
+<h1>Network Security Report</h1>
+<div class='report-info'>Report: report_20240714_081626.html</div>
+<div class='report-info'>Created: 2024-07-14 08:16:26</div>
+<div class='section'>
+<h2>Network Scanning Results</h2>
+<pre style='font-size: 18px;'>
+Host: 192.168.133.135
+Protocol: tcp
+Port: 22	State: open
+Service: ssh
+
+Port: 80	State: open
+Service: http
+
+</pre>
+<p class='log-entry'>2024-07-14 08:16:26 - Last log entry: Network Scanning Results</p>
+</div>
+<div class='section'>
+<h2>MITM Detection Results</h2>
+<table>
+<tr><th>Result</th><th>Remediation</th></tr>
+<tr><td class='highlight-orange'>[!] Possible MITM attack detected! Real MAC: 00:50:56:fd:55:bd, Fake MAC: 00:50:56:2a:bb:f5</td><td class='remediation'>Ensure secure network configurations and monitor for unusual network behavior.</td></tr>
+<p class='log-entry'>[!] Possible MITM attack detected! Real MAC: 00:50:56:fd:55:bd, Fake MAC: 00:50:56:2a:bb:f5</p>
+</table>
+</div>
+<div class='section'>
+<h2>Secure Protocols Check Results</h2>
+<table>
+<tr><th>Result</th><th>Remediation</th></tr>
+<tr><td>https://192.168.133.135 is not using HTTPS (SSL Error).</td><td class='remediation'>Ensure all services are configured to use secure protocols (e.g., HTTPS, TLS) and disable insecure protocols.</td></tr>
+<tr><td>Error verifying TLS certificate for 192.168.133.135: [SSL] record layer failure (_ssl.c:1006)</td><td class='remediation'>Ensure all services are configured to use secure protocols (e.g., HTTPS, TLS) and disable insecure protocols.</td></tr>
+<p class='log-entry'>Error verifying TLS certificate for 192.168.133.135: [SSL] record layer failure (_ssl.c:1006)</p>
+</table>
+</div>
+<div class='section'>
+<h2>Endpoint Verification Results</h2>
+<table>
+<tr><th>Result</th><th>Remediation</th></tr>
+<tr><td>Error verifying TLS certificate for 192.168.133.137: [Errno 111] Connection refused</td><td class='remediation'>Regularly verify endpoint security configurations and apply patches and updates promptly.</td></tr>
+<p class='log-entry'>Error verifying TLS certificate for 192.168.133.137: [Errno 111] Connection refused</p>
+</table>
+</div>
+<div class='section'>
+<h2>Last 50 Log Entries</h2>
+<table>
+<tr><th>Log Entry</th></tr>
+<tr><td class='log-entry'>2024-07-14 08:01:28,950 - MITM detection completed.</td></tr>
+<tr><td class='log-entry' style='background-color: #f9f9f9;'>2024-07-14 08:01:28,962 - Error accessing https://192.168.133.135: HTTPSConnectionPool(host='192.168.133.135', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7faa8b583990>: Failed to establish a new connection: [Errno 111] Connection refused'))</td></tr>
+<tr><td class='log-entry'>2024-07-14 08:01:28,975 - 192.168.133.137 is reachable.</td></tr>
+<tr><td class='log-entry' style='background-color: #f9f9f9;'>2024-07-14 08:01:29,005 - Error verifying TLS certificate for 192.168.133.137: [Errno 111] Connection refused</td></tr>
+<tr><td class='log-entry'>2024-07-14 08:01:29,010 - Main program completed</td></tr>
+<tr><td class='log-entry' style='background-color: #f9f9f9;'>2024-07-14 08:05:02,080 - Starting main program</td></tr>
+<tr><td class='log-entry'>2024-07-14 08:05:02,081 - Network scan started.</td></tr>
+<tr><td class='log-entry' style='background-color: #f9f9f9;'>2024-07-14 08:05:20,883 - Starting main program</td></tr>
+<tr><td class='log-entry'>2024-07-14 08:05:20,884 - Network scan started.</td></tr>
+<tr><td class='log-entry' style='background-color: #f9f9f9;'>2024-07-14 08:05:34,311 - Network scan completed.</td></tr>
+<tr><td class='log-entry'>2024-07-14 08:05:34,311 - Scan duration: 0:00:13.426948</td></tr>
+<tr><td class='log-entry' style='background-color: #f9f9f9;'>2024-07-14 08:05:34,312 - Starting MITM detection...</td></tr>
+<tr><td class='log-entry'>2024-07-14 08:06:04,370 - MITM detection completed.</td></tr>
+<tr><td class='log-entry' style='background-color: #f9f9f9;'>2024-07-14 08:06:04,378 - Error accessing https://192.168.133.135: HTTPSConnectionPool(host='192.168.133.135', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f9e910466d0>: Failed to establish a new connection: [Errno 111] Connection refused'))</td></tr>
+<tr><td class='log-entry'>2024-07-14 08:06:04,391 - 192.168.133.137 is reachable.</td></tr>
+<tr><td class='log-entry' style='background-color: #f9f9f9;'>2024-07-14 08:06:04,415 - Error verifying TLS certificate for 192.168.133.137: [Errno 111] Connection refused</td></tr>
+<tr><td class='log-entry'>2024-07-14 08:06:04,418 - Main program completed</td></tr>
+<tr><td class='log-entry' style='background-color: #f9f9f9;'>2024-07-14 08:10:49,029 - Network scan started.</td></tr>
+<tr><td class='log-entry'>2024-07-14 08:11:02,467 - Network scan completed.</td></tr>
+<tr><td class='log-entry' style='background-color: #f9f9f9;'>2024-07-14 08:11:02,468 - Scan duration: 0:00:13.438896</td></tr>
+<tr><td class='log-entry'>2024-07-14 08:11:10,501 - Starting main program</td></tr>
+<tr><td class='log-entry' style='background-color: #f9f9f9;'>2024-07-14 08:11:10,501 - Network scan started.</td></tr>
+<tr><td class='log-entry'>2024-07-14 08:11:23,927 - Network scan completed.</td></tr>
+<tr><td class='log-entry' style='background-color: #f9f9f9;'>2024-07-14 08:11:23,927 - Scan duration: 0:00:13.425795</td></tr>
+<tr><td class='log-entry'>2024-07-14 08:11:23,928 - Starting MITM detection...</td></tr>
+<tr><td class='log-entry' style='background-color: #f9f9f9;'>2024-07-14 08:11:53,958 - MITM detection completed.</td></tr>
+<tr><td class='log-entry'>2024-07-14 08:11:54,071 - https://192.168.133.135 is not using HTTPS (SSL Error).</td></tr>
+<tr><td class='log-entry' style='background-color: #f9f9f9;'>2024-07-14 08:11:54,080 - 192.168.133.137 is reachable.</td></tr>
+<tr><td class='log-entry'>2024-07-14 08:11:54,098 - Error verifying TLS certificate for 192.168.133.137: [Errno 111] Connection refused</td></tr>
+<tr><td class='log-entry' style='background-color: #f9f9f9;'>2024-07-14 08:11:54,100 - Main program completed</td></tr>
+<tr><td class='log-entry'>2024-07-14 08:13:37,948 - Starting main program</td></tr>
+<tr><td class='log-entry' style='background-color: #f9f9f9;'>2024-07-14 08:13:37,949 - Network scan started.</td></tr>
+<tr><td class='log-entry'>2024-07-14 08:13:51,362 - Network scan completed.</td></tr>
+<tr><td class='log-entry' style='background-color: #f9f9f9;'>2024-07-14 08:13:51,362 - Scan duration: 0:00:13.413162</td></tr>
+<tr><td class='log-entry'>2024-07-14 08:13:51,363 - Starting MITM detection...</td></tr>
+<tr><td class='log-entry' style='background-color: #f9f9f9;'>2024-07-14 08:14:21,418 - MITM detection completed.</td></tr>
+<tr><td class='log-entry'>2024-07-14 08:14:21,445 - https://192.168.133.135 is not using HTTPS (SSL Error).</td></tr>
+<tr><td class='log-entry' style='background-color: #f9f9f9;'>2024-07-14 08:14:21,456 - 192.168.133.137 is reachable.</td></tr>
+<tr><td class='log-entry'>2024-07-14 08:14:21,475 - Error verifying TLS certificate for 192.168.133.137: [Errno 111] Connection refused</td></tr>
+<tr><td class='log-entry' style='background-color: #f9f9f9;'>2024-07-14 08:14:21,477 - Main program completed</td></tr>
+<tr><td class='log-entry'>2024-07-14 08:15:21,478 - Starting main program</td></tr>
+<tr><td class='log-entry' style='background-color: #f9f9f9;'>2024-07-14 08:15:21,478 - Network scan started.</td></tr>
+<tr><td class='log-entry'>2024-07-14 08:15:34,979 - Network scan completed.</td></tr>
+<tr><td class='log-entry' style='background-color: #f9f9f9;'>2024-07-14 08:15:34,979 - Scan duration: 0:00:13.500701</td></tr>
+<tr><td class='log-entry'>2024-07-14 08:15:34,979 - Starting MITM detection...</td></tr>
+<tr><td class='log-entry' style='background-color: #f9f9f9;'>2024-07-14 08:16:05,006 - MITM detection completed.</td></tr>
+<tr><td class='log-entry'>2024-07-14 08:16:05,028 - https://192.168.133.135 is not using HTTPS (SSL Error).</td></tr>
+<tr><td class='log-entry' style='background-color: #f9f9f9;'>2024-07-14 08:16:05,037 - 192.168.133.137 is reachable.</td></tr>
+<tr><td class='log-entry'>2024-07-14 08:16:05,054 - Error verifying TLS certificate for 192.168.133.137: [Errno 111] Connection refused</td></tr>
+<tr><td class='log-entry' style='background-color: #f9f9f9;'>2024-07-14 08:16:05,057 - Main program completed</td></tr>
+<p class='log-entry'>2024-07-14 08:16:05,057 - Main program completed</p>
+</table>
+</div>
+</div>
+</body>
+</html>

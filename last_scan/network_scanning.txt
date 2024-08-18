@@ -1,0 +1,8 @@
+Host: 192.168.133.135
+Protocol: tcp
+Port: 22	State: open
+Service: ssh
+
+Port: 80	State: open
+Service: http
+

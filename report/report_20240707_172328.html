@@ -1,0 +1,171 @@
+<html>
+<head>
+<title>Network Security Report</title>
+<style>
+body { font-family: Arial, sans-serif; background-color: #f0f0f0; padding: 20px; }
+.container { max-width: 1200px; margin: 0 auto; }
+h1, h2, h3 { color: #333333; }
+h1 { font-size: 28px; margin-bottom: 20px; }
+h2 { margin-top: 40px; border-bottom: 1px solid #cccccc; padding-bottom: 10px; font-size: 24px; }
+h3 { margin-top: 20px; font-size: 20px; }
+table { border-collapse: collapse; width: 100%; margin-bottom: 20px; }
+th, td { border: 1px solid #dddddd; text-align: left; padding: 12px; font-size: 16px; }
+th { background-color: #f2f2f2; }
+.highlight-green { background-color: #d4edda; color: #155724; }
+.highlight-red { background-color: #f8d7da; color: #721c24; }
+.highlight-orange { background-color: #fff3cd; color: #856404; }
+.section { margin-bottom: 30px; }
+.state-open { font-size: 18px; font-weight: bold; color: #007bff; }
+.log-entry { font-size: 14px; }
+.report-info { float: right; font-size: 14px; }
+</style>
+</head>
+<body>
+<div class='container'>
+<h1>Network Security Report</h1>
+<div class='report-info'>Report: report_20240707_172328.html</div>
+<div class='report-info'>Created: 2024-07-07 17:23:28</div>
+<div class='section'>
+<h2>Network Scanning Results</h2>
+<pre style='font-size: 18px;'>
+Host: 192.168.133.135
+Protocol: tcp
+Port: 22	State: open
+Service: ssh
+
+Port: 80	State: open
+Service: http
+
+</pre>
+</div>
+<div class='section'>
+<h2>MITM Detection Results</h2>
+<table>
+<tr><th>Result</th><th>Remediation</th></tr>
+<tr><td class='highlight-orange'>[!] Possible MITM attack detected! Real MAC: 00:50:56:fd:55:bd, Fake MAC: 00:50:56:2a:bb:f5</td><td>Ensure secure network configurations and monitor for unusual network behavior.</td></tr>
+<tr><td class='highlight-orange'>[!] Possible MITM attack detected! Real MAC: 00:50:56:2a:bb:f5, Fake MAC: 00:50:56:fd:55:bd</td><td>Ensure secure network configurations and monitor for unusual network behavior.</td></tr>
+</table>
+</div>
+<div class='section'>
+<h2>Secure Protocols Check Results</h2>
+<table>
+<tr><th>Result</th><th>Remediation</th></tr>
+<tr><td>https://192.168.133.135 is not using HTTPS (SSL Error).</td><td>Ensure all services are configured to use secure protocols (e.g., HTTPS, TLS) and disable insecure protocols.</td></tr>
+<tr><td>Error verifying TLS certificate for 192.168.133.135: [SSL] record layer failure (_ssl.c:1006)</td><td>Ensure all services are configured to use secure protocols (e.g., HTTPS, TLS) and disable insecure protocols.</td></tr>
+</table>
+</div>
+<div class='section'>
+<h2>Endpoint Verification Results</h2>
+<table>
+<tr><th>Result</th><th>Remediation</th></tr>
+<tr><td>Error verifying TLS certificate for 192.168.133.137: [Errno 111] Connection refused</td><td>Regularly verify endpoint security configurations and apply patches and updates promptly.</td></tr>
+</table>
+</div>
+<div class='section'>
+<h2>Last 100 Log Entries</h2>
+<ul class='log-entries'>
+<li class='log-entry'>2024-07-07 16:05:34,941 - Error verifying TLS certificate for 192.168.133.135: [SSL] record layer failure (_ssl.c:1006)</li>
+<li class='log-entry'>2024-07-07 16:05:34,970 - https://192.168.133.135 is not using HTTPS (SSL Error).</li>
+<li class='log-entry'>2024-07-07 16:05:35,001 - Error verifying TLS certificate for 192.168.133.135: [SSL] record layer failure (_ssl.c:1006)</li>
+<li class='log-entry'>2024-07-07 16:10:34,406 - Network scan started.</li>
+<li class='log-entry'>2024-07-07 16:10:36,023 - Network scan completed.</li>
+<li class='log-entry'>2024-07-07 16:10:36,023 - Scan duration: 0:00:01.616658</li>
+<li class='log-entry'>2024-07-07 16:11:37,675 - Network scan started.</li>
+<li class='log-entry'>2024-07-07 16:11:39,236 - Network scan completed.</li>
+<li class='log-entry'>2024-07-07 16:11:39,237 - Scan duration: 0:00:01.560723</li>
+<li class='log-entry'>2024-07-07 16:20:52,180 - Starting main program</li>
+<li class='log-entry'>2024-07-07 16:20:52,181 - Network scan started.</li>
+<li class='log-entry'>2024-07-07 16:20:53,732 - Network scan completed.</li>
+<li class='log-entry'>2024-07-07 16:20:53,733 - Scan duration: 0:00:01.549079</li>
+<li class='log-entry'>2024-07-07 16:20:53,733 - Starting MITM detection...</li>
+<li class='log-entry'>2024-07-07 16:21:23,789 - MITM detection completed.</li>
+<li class='log-entry'>2024-07-07 16:21:23,830 - https://192.168.133.135 is not using HTTPS (SSL Error).</li>
+<li class='log-entry'>2024-07-07 16:21:23,831 - Endpoint verification started</li>
+<li class='log-entry'>2024-07-07 16:21:23,832 - Endpoint verification completed</li>
+<li class='log-entry'>2024-07-07 16:21:23,832 - Main program completed</li>
+<li class='log-entry'>2024-07-07 16:24:19,056 - https://192.168.133.135 is not using HTTPS (SSL Error).</li>
+<li class='log-entry'>2024-07-07 16:24:19,083 - Error verifying TLS certificate for 192.168.133.135: [SSL] record layer failure (_ssl.c:1006)</li>
+<li class='log-entry'>2024-07-07 16:24:19,112 - https://192.168.133.135 is not using HTTPS (SSL Error).</li>
+<li class='log-entry'>2024-07-07 16:24:19,138 - Error verifying TLS certificate for 192.168.133.135: [SSL] record layer failure (_ssl.c:1006)</li>
+<li class='log-entry'>2024-07-07 16:25:26,518 - Starting main program</li>
+<li class='log-entry'>2024-07-07 16:25:26,519 - Network scan started.</li>
+<li class='log-entry'>2024-07-07 16:25:27,986 - Network scan completed.</li>
+<li class='log-entry'>2024-07-07 16:25:27,987 - Scan duration: 0:00:01.467543</li>
+<li class='log-entry'>2024-07-07 16:25:27,988 - Starting MITM detection...</li>
+<li class='log-entry'>2024-07-07 16:25:58,065 - MITM detection completed.</li>
+<li class='log-entry'>2024-07-07 16:25:58,116 - https://192.168.133.135 is not using HTTPS (SSL Error).</li>
+<li class='log-entry'>2024-07-07 16:25:58,118 - Endpoint verification started</li>
+<li class='log-entry'>2024-07-07 16:25:58,119 - Endpoint verification completed</li>
+<li class='log-entry'>2024-07-07 16:25:58,120 - Main program completed</li>
+<li class='log-entry'>2024-07-07 16:29:11,284 - https://192.168.133.135 is not using HTTPS (SSL Error: HTTPSConnectionPool(host='192.168.133.135', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL] record layer failure (_ssl.c:1006)')))).</li>
+<li class='log-entry'>2024-07-07 16:29:11,312 - Error verifying TLS certificate for 192.168.133.135: [SSL] record layer failure (_ssl.c:1006)</li>
+<li class='log-entry'>2024-07-07 16:29:11,342 - https://192.168.133.135 is not using HTTPS (SSL Error: HTTPSConnectionPool(host='192.168.133.135', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL] record layer failure (_ssl.c:1006)')))).</li>
+<li class='log-entry'>2024-07-07 16:29:11,368 - Error verifying TLS certificate for 192.168.133.135: [SSL] record layer failure (_ssl.c:1006)</li>
+<li class='log-entry'>2024-07-07 16:29:57,260 - https://192.168.133.135 is not using HTTPS (SSL Error: HTTPSConnectionPool(host='192.168.133.135', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL] record layer failure (_ssl.c:1006)')))).</li>
+<li class='log-entry'>2024-07-07 16:29:57,287 - Error verifying TLS certificate for 192.168.133.135: [SSL] record layer failure (_ssl.c:1006)</li>
+<li class='log-entry'>2024-07-07 16:29:57,316 - https://192.168.133.135 is not using HTTPS (SSL Error: HTTPSConnectionPool(host='192.168.133.135', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL] record layer failure (_ssl.c:1006)')))).</li>
+<li class='log-entry'>2024-07-07 16:29:57,343 - Error verifying TLS certificate for 192.168.133.135: [SSL] record layer failure (_ssl.c:1006)</li>
+<li class='log-entry'>2024-07-07 16:30:28,081 - Starting main program</li>
+<li class='log-entry'>2024-07-07 16:30:28,082 - Network scan started.</li>
+<li class='log-entry'>2024-07-07 16:30:29,667 - Network scan completed.</li>
+<li class='log-entry'>2024-07-07 16:30:29,668 - Scan duration: 0:00:01.585831</li>
+<li class='log-entry'>2024-07-07 16:30:29,669 - Starting MITM detection...</li>
+<li class='log-entry'>2024-07-07 16:30:59,713 - MITM detection completed.</li>
+<li class='log-entry'>2024-07-07 16:30:59,762 - https://192.168.133.135 is not using HTTPS (SSL Error: HTTPSConnectionPool(host='192.168.133.135', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL] record layer failure (_ssl.c:1006)')))).</li>
+<li class='log-entry'>2024-07-07 16:30:59,764 - Endpoint verification started</li>
+<li class='log-entry'>2024-07-07 16:30:59,766 - Endpoint verification completed</li>
+<li class='log-entry'>2024-07-07 16:30:59,767 - Main program completed</li>
+<li class='log-entry'>2024-07-07 16:32:24,684 - https://192.168.133.135 is not using HTTPS (SSL Error: HTTPSConnectionPool(host='192.168.133.135', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL] record layer failure (_ssl.c:1006)')))).</li>
+<li class='log-entry'>2024-07-07 16:32:24,710 - Error verifying TLS certificate for 192.168.133.135: [SSL] record layer failure (_ssl.c:1006)</li>
+<li class='log-entry'>2024-07-07 16:32:24,737 - https://192.168.133.135 is not using HTTPS (SSL Error: HTTPSConnectionPool(host='192.168.133.135', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL] record layer failure (_ssl.c:1006)')))).</li>
+<li class='log-entry'>2024-07-07 16:32:24,765 - Error verifying TLS certificate for 192.168.133.135: [SSL] record layer failure (_ssl.c:1006)</li>
+<li class='log-entry'>2024-07-07 16:32:47,830 - https://192.168.133.135 is not using HTTPS (SSL Error).</li>
+<li class='log-entry'>2024-07-07 16:32:47,854 - Error verifying TLS certificate for 192.168.133.135: [SSL] record layer failure (_ssl.c:1006)</li>
+<li class='log-entry'>2024-07-07 16:32:47,883 - https://192.168.133.135 is not using HTTPS (SSL Error).</li>
+<li class='log-entry'>2024-07-07 16:32:47,909 - Error verifying TLS certificate for 192.168.133.135: [SSL] record layer failure (_ssl.c:1006)</li>
+<li class='log-entry'>2024-07-07 16:43:40,490 - 192.168.133.137 is reachable.</li>
+<li class='log-entry'>2024-07-07 16:43:40,545 - Error verifying TLS certificate for 192.168.133.137: [Errno 111] Connection refused</li>
+<li class='log-entry'>2024-07-07 16:44:24,517 - 192.168.133.137 is reachable.</li>
+<li class='log-entry'>2024-07-07 16:44:24,570 - Error verifying TLS certificate for 192.168.133.137: [Errno 111] Connection refused</li>
+<li class='log-entry'>2024-07-07 16:45:17,007 - 192.168.133.137 is reachable.</li>
+<li class='log-entry'>2024-07-07 16:45:17,061 - Socket error: [Errno 111] Connection refused</li>
+<li class='log-entry'>2024-07-07 16:45:38,709 - 192.168.133.137 is reachable.</li>
+<li class='log-entry'>2024-07-07 16:45:38,763 - Error verifying TLS certificate for 192.168.133.137: [Errno 111] Connection refused</li>
+<li class='log-entry'>2024-07-07 16:47:00,104 - Starting main program</li>
+<li class='log-entry'>2024-07-07 16:47:00,105 - Network scan started.</li>
+<li class='log-entry'>2024-07-07 16:47:01,682 - Network scan completed.</li>
+<li class='log-entry'>2024-07-07 16:47:01,683 - Scan duration: 0:00:01.578136</li>
+<li class='log-entry'>2024-07-07 16:47:01,684 - Starting MITM detection...</li>
+<li class='log-entry'>2024-07-07 16:47:31,765 - MITM detection completed.</li>
+<li class='log-entry'>2024-07-07 16:47:31,814 - https://192.168.133.135 is not using HTTPS (SSL Error).</li>
+<li class='log-entry'>2024-07-07 16:49:54,323 - Starting main program</li>
+<li class='log-entry'>2024-07-07 16:49:54,324 - Network scan started.</li>
+<li class='log-entry'>2024-07-07 16:49:55,853 - Network scan completed.</li>
+<li class='log-entry'>2024-07-07 16:49:55,854 - Scan duration: 0:00:01.528954</li>
+<li class='log-entry'>2024-07-07 16:49:55,855 - Starting MITM detection...</li>
+<li class='log-entry'>2024-07-07 16:50:25,912 - MITM detection completed.</li>
+<li class='log-entry'>2024-07-07 16:50:25,961 - https://192.168.133.135 is not using HTTPS (SSL Error).</li>
+<li class='log-entry'>2024-07-07 16:50:25,980 - 192.168.133.137 is reachable.</li>
+<li class='log-entry'>2024-07-07 16:50:26,004 - Error verifying TLS certificate for 192.168.133.137: [Errno 111] Connection refused</li>
+<li class='log-entry'>2024-07-07 16:50:26,006 - Main program completed</li>
+<li class='log-entry'>2024-07-07 16:50:47,130 - Generating report...</li>
+<li class='log-entry'>2024-07-07 16:50:47,131 - Report generated</li>
+<li class='log-entry'>2024-07-07 16:50:50,369 - Generating report...</li>
+<li class='log-entry'>2024-07-07 16:50:50,370 - Report generated</li>
+<li class='log-entry'>2024-07-07 16:54:06,197 - 192.168.133.137 is reachable.</li>
+<li class='log-entry'>2024-07-07 16:54:06,249 - Error verifying TLS certificate for 192.168.133.137: [Errno 111] Connection refused</li>
+<li class='log-entry'>2024-07-07 17:10:57,109 - Starting main program</li>
+<li class='log-entry'>2024-07-07 17:10:57,110 - Network scan started.</li>
+<li class='log-entry'>2024-07-07 17:10:58,603 - Network scan completed.</li>
+<li class='log-entry'>2024-07-07 17:10:58,604 - Scan duration: 0:00:01.492552</li>
+<li class='log-entry'>2024-07-07 17:10:58,604 - Starting MITM detection...</li>
+<li class='log-entry'>2024-07-07 17:11:28,645 - MITM detection completed.</li>
+<li class='log-entry'>2024-07-07 17:11:28,696 - https://192.168.133.135 is not using HTTPS (SSL Error).</li>
+<li class='log-entry'>2024-07-07 17:11:28,719 - 192.168.133.137 is reachable.</li>
+<li class='log-entry'>2024-07-07 17:11:28,743 - Error verifying TLS certificate for 192.168.133.137: [Errno 111] Connection refused</li>
+<li class='log-entry'>2024-07-07 17:11:28,747 - Main program completed</li>
+</ul>
+</div>
+</div>
+</body>
+</html>

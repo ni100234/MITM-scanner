@@ -1,0 +1,83 @@
+<html>
+<head>
+<title>Network Security Report</title>
+<style>
+body { font-family: Arial, sans-serif; background-color: #f0f0f0; }
+h2 { color: #333333; }
+h3 { color: #444444; }
+table { border-collapse: collapse; width: 100%; margin-bottom: 20px; }
+th, td { border: 1px solid #dddddd; text-align: left; padding: 12px; }
+th { background-color: #f2f2f2; }
+.highlight-green { background-color: #d4edda; }
+.highlight-red { background-color: #f8d7da; }
+.highlight-orange { background-color: #fff3cd; }
+.section { margin-bottom: 30px; }
+</style>
+</head>
+<body>
+<div style='text-align: center;'>
+<h1>Network Security Report</h1>
+</div>
+<div class='section'>
+<h2>Network Scanning Results</h2>
+<pre style='font-size: 14px;'>
+Host: 192.168.133.135
+Protocol: tcp
+Port: 22	State: open
+Service: ssh
+
+Port: 80	State: open
+Service: http
+
+</pre>
+</div>
+<div class='section'>
+<h2>MITM Detection Results</h2>
+<table>
+<tr><th>Result</th><th>Remediation</th></tr>
+<tr><td class='highlight-orange'>[!] Possible MITM attack detected! Real MAC: 00:50:56:fd:55:bd, Fake MAC: 00:50:56:2a:bb:f5</td><td>Ensure secure network configurations and monitor for unusual network behavior.</td></tr>
+<tr><td class='highlight-orange'>[!] Possible MITM attack detected! Real MAC: 00:50:56:2a:bb:f5, Fake MAC: 00:50:56:fd:55:bd</td><td>Ensure secure network configurations and monitor for unusual network behavior.</td></tr>
+</table>
+</div>
+<div class='section'>
+<h2>Secure Protocols Check Results</h2>
+<table>
+<tr><th>Result</th><th>Remediation</th></tr>
+<tr><td>https://192.168.133.135 is not using HTTPS (SSL Error).</td><td>Ensure all services are configured to use secure protocols (e.g., HTTPS, TLS) and disable insecure protocols.</td></tr>
+<tr><td>Error verifying TLS certificate for 192.168.133.135: [SSL] record layer failure (_ssl.c:1006)</td><td>Ensure all services are configured to use secure protocols (e.g., HTTPS, TLS) and disable insecure protocols.</td></tr>
+</table>
+</div>
+<div class='section'>
+<h2>Endpoint Verification Results</h2>
+<table>
+<tr><th>Result</th><th>Remediation</th></tr>
+<tr><td>Error verifying TLS certificate for 192.168.133.137: [Errno 111] Connection refused</td><td>Regularly verify endpoint security configurations and apply patches and updates promptly.</td></tr>
+</table>
+</div>
+<div class='section'>
+<h2>Last 20 Log Entries</h2>
+<ul style='font-size: 14px;'>
+<li>2024-07-07 16:50:25,961 - https://192.168.133.135 is not using HTTPS (SSL Error).</li>
+<li>2024-07-07 16:50:25,980 - 192.168.133.137 is reachable.</li>
+<li>2024-07-07 16:50:26,004 - Error verifying TLS certificate for 192.168.133.137: [Errno 111] Connection refused</li>
+<li>2024-07-07 16:50:26,006 - Main program completed</li>
+<li>2024-07-07 16:50:47,130 - Generating report...</li>
+<li>2024-07-07 16:50:47,131 - Report generated</li>
+<li>2024-07-07 16:50:50,369 - Generating report...</li>
+<li>2024-07-07 16:50:50,370 - Report generated</li>
+<li>2024-07-07 16:54:06,197 - 192.168.133.137 is reachable.</li>
+<li>2024-07-07 16:54:06,249 - Error verifying TLS certificate for 192.168.133.137: [Errno 111] Connection refused</li>
+<li>2024-07-07 17:10:57,109 - Starting main program</li>
+<li>2024-07-07 17:10:57,110 - Network scan started.</li>
+<li>2024-07-07 17:10:58,603 - Network scan completed.</li>
+<li>2024-07-07 17:10:58,604 - Scan duration: 0:00:01.492552</li>
+<li>2024-07-07 17:10:58,604 - Starting MITM detection...</li>
+<li>2024-07-07 17:11:28,645 - MITM detection completed.</li>
+<li>2024-07-07 17:11:28,696 - https://192.168.133.135 is not using HTTPS (SSL Error).</li>
+<li>2024-07-07 17:11:28,719 - 192.168.133.137 is reachable.</li>
+<li>2024-07-07 17:11:28,743 - Error verifying TLS certificate for 192.168.133.137: [Errno 111] Connection refused</li>
+<li>2024-07-07 17:11:28,747 - Main program completed</li>
+</ul>
+</div>
+</body>
+</html>

@@ -1,0 +1,702 @@
+2024-07-07 12:49:42,745 - Starting main program
+2024-07-07 12:49:42,745 - Network scan started.
+2024-07-07 12:49:57,231 - Network scan completed.
+2024-07-07 12:49:57,232 - Scan duration: 0:00:14.485203
+2024-07-07 12:50:48,453 - Starting main program
+2024-07-07 12:50:48,454 - Network scan started.
+2024-07-07 12:51:11,255 - Network scan completed.
+2024-07-07 12:51:11,256 - Scan duration: 0:00:22.800455
+2024-07-07 12:52:28,808 - Starting main program
+2024-07-07 12:52:28,809 - Network scan started.
+2024-07-07 12:52:57,423 - Network scan completed.
+2024-07-07 12:52:57,424 - Scan duration: 0:00:28.611729
+2024-07-07 12:52:57,424 - MITM detection started
+2024-07-07 12:52:57,425 - MITM detection completed
+2024-07-07 12:52:57,425 - Secure protocol check started
+2024-07-07 12:52:57,426 - Secure protocol check completed
+2024-07-07 12:52:57,426 - Endpoint verification started
+2024-07-07 12:52:57,427 - Endpoint verification completed
+2024-07-07 12:52:57,428 - Main program completed
+2024-07-07 12:54:52,222 - Starting main program
+2024-07-07 12:55:14,779 - Starting main program
+2024-07-07 12:56:55,887 - Starting main program
+2024-07-07 12:57:20,411 - Starting main program
+2024-07-07 12:57:30,545 - Starting main program
+2024-07-07 12:58:33,345 - Starting main program
+2024-07-07 12:58:33,346 - Network scan started.
+2024-07-07 12:58:50,047 - Network scan completed.
+2024-07-07 12:58:50,047 - Scan duration: 0:00:16.698708
+2024-07-07 12:58:50,049 - MITM detection started
+2024-07-07 12:58:50,049 - MITM detection completed
+2024-07-07 12:58:50,050 - Secure protocol check started
+2024-07-07 12:58:50,051 - Secure protocol check completed
+2024-07-07 12:58:50,051 - Endpoint verification started
+2024-07-07 12:58:50,052 - Endpoint verification completed
+2024-07-07 12:58:50,052 - Main program completed
+2024-07-07 13:00:51,959 - Starting main program
+2024-07-07 13:00:51,961 - Network scan started.
+2024-07-07 13:00:51,962 - MITM detection started
+2024-07-07 13:00:51,966 - MITM detection completed
+2024-07-07 13:00:51,966 - Secure protocol check started
+2024-07-07 13:00:51,967 - Secure protocol check completed
+2024-07-07 13:00:51,967 - Endpoint verification started
+2024-07-07 13:00:51,968 - Endpoint verification completed
+2024-07-07 13:00:51,969 - Main program completed
+2024-07-07 13:01:03,091 - Network scan completed.
+2024-07-07 13:01:03,092 - Scan duration: 0:00:11.127247
+2024-07-07 13:02:01,240 - Network scan started.
+2024-07-07 13:04:54,222 - Network scan started.
+2024-07-07 13:05:08,528 - Network scan completed.
+2024-07-07 13:05:47,678 - Starting main program
+2024-07-07 13:05:47,679 - Network scan started.
+2024-07-07 13:05:49,004 - Network scan completed.
+2024-07-07 13:05:49,009 - MITM detection started
+2024-07-07 13:05:49,009 - MITM detection completed
+2024-07-07 13:05:49,010 - Secure protocol check started
+2024-07-07 13:05:49,010 - Secure protocol check completed
+2024-07-07 13:05:49,011 - Endpoint verification started
+2024-07-07 13:05:49,011 - Endpoint verification completed
+2024-07-07 13:05:49,012 - Main program completed
+2024-07-07 13:08:37,519 - Starting main program
+2024-07-07 13:08:37,520 - Network scan started.
+2024-07-07 13:08:38,843 - Network scan completed.
+2024-07-07 13:08:38,848 - MITM detection started
+2024-07-07 13:08:38,848 - MITM detection completed
+2024-07-07 13:08:38,848 - Secure protocol check started
+2024-07-07 13:08:38,849 - Secure protocol check completed
+2024-07-07 13:08:38,850 - Endpoint verification started
+2024-07-07 13:08:38,850 - Endpoint verification completed
+2024-07-07 13:08:38,851 - Main program completed
+2024-07-07 13:12:14,794 - Starting main program
+2024-07-07 13:12:14,796 - Network scan started.
+2024-07-07 13:13:23,343 - Starting main program
+2024-07-07 13:13:23,344 - Network scan started.
+2024-07-07 13:13:24,681 - Network scan completed.
+2024-07-07 13:13:24,682 - Scan duration: 0:00:01.335586
+2024-07-07 13:13:24,684 - MITM detection started
+2024-07-07 13:13:24,685 - MITM detection completed
+2024-07-07 13:13:24,687 - Secure protocol check started
+2024-07-07 13:13:24,687 - Secure protocol check completed
+2024-07-07 13:13:24,688 - Endpoint verification started
+2024-07-07 13:13:24,689 - Endpoint verification completed
+2024-07-07 13:13:24,690 - Main program completed
+2024-07-07 13:18:10,068 - Starting main program
+2024-07-07 13:18:10,069 - Network scan started.
+2024-07-07 13:18:11,609 - Network scan completed.
+2024-07-07 13:18:11,610 - Scan duration: 0:00:01.539428
+2024-07-07 13:18:11,615 - MITM detection started
+2024-07-07 13:18:11,615 - MITM detection completed
+2024-07-07 13:18:11,616 - Secure protocol check started
+2024-07-07 13:18:11,617 - Secure protocol check completed
+2024-07-07 13:18:11,618 - Endpoint verification started
+2024-07-07 13:18:11,619 - Endpoint verification completed
+2024-07-07 13:18:11,619 - Main program completed
+2024-07-07 13:18:38,977 - Starting main program
+2024-07-07 13:18:38,978 - Network scan started.
+2024-07-07 13:18:42,560 - Network scan completed.
+2024-07-07 13:18:42,560 - Scan duration: 0:00:03.581733
+2024-07-07 13:18:42,565 - MITM detection started
+2024-07-07 13:18:42,566 - MITM detection completed
+2024-07-07 13:18:42,566 - Secure protocol check started
+2024-07-07 13:18:42,567 - Secure protocol check completed
+2024-07-07 13:18:42,567 - Endpoint verification started
+2024-07-07 13:18:42,568 - Endpoint verification completed
+2024-07-07 13:18:42,569 - Main program completed
+2024-07-07 13:22:14,480 - Starting main program
+2024-07-07 13:22:14,481 - Network scan started.
+2024-07-07 13:22:16,024 - Network scan completed.
+2024-07-07 13:22:16,025 - Scan duration: 0:00:01.543984
+2024-07-07 13:22:16,031 - MITM detection started
+2024-07-07 13:22:16,032 - MITM detection completed
+2024-07-07 13:22:16,032 - Secure protocol check started
+2024-07-07 13:22:16,033 - Secure protocol check completed
+2024-07-07 13:22:16,034 - Endpoint verification started
+2024-07-07 13:22:16,035 - Endpoint verification completed
+2024-07-07 13:22:16,036 - Main program completed
+2024-07-07 13:23:07,081 - Starting main program
+2024-07-07 13:23:07,082 - Network scan started.
+2024-07-07 13:23:08,594 - Network scan completed.
+2024-07-07 13:23:08,595 - Scan duration: 0:00:01.511902
+2024-07-07 13:23:08,599 - MITM detection started
+2024-07-07 13:23:08,600 - MITM detection completed
+2024-07-07 13:23:08,601 - Secure protocol check started
+2024-07-07 13:23:08,602 - Secure protocol check completed
+2024-07-07 13:23:08,602 - Endpoint verification started
+2024-07-07 13:23:08,603 - Endpoint verification completed
+2024-07-07 13:23:08,604 - Main program completed
+2024-07-07 13:27:06,480 - Starting main program
+2024-07-07 13:27:06,481 - Network scan started.
+2024-07-07 13:27:08,031 - Network scan completed.
+2024-07-07 13:27:08,031 - Scan duration: 0:00:01.549441
+2024-07-07 13:27:08,036 - MITM detection started
+2024-07-07 13:27:08,036 - MITM detection completed
+2024-07-07 13:27:08,037 - Secure protocol check started
+2024-07-07 13:27:08,038 - Secure protocol check completed
+2024-07-07 13:27:08,039 - Endpoint verification started
+2024-07-07 13:27:08,039 - Endpoint verification completed
+2024-07-07 13:27:08,040 - Main program completed
+2024-07-07 13:28:46,045 - Starting main program
+2024-07-07 13:28:46,046 - Network scan started.
+2024-07-07 13:28:55,637 - Network scan completed.
+2024-07-07 13:28:55,638 - Scan duration: 0:00:09.590232
+2024-07-07 13:28:55,643 - MITM detection started
+2024-07-07 13:28:55,644 - MITM detection completed
+2024-07-07 13:28:55,644 - Secure protocol check started
+2024-07-07 13:28:55,645 - Secure protocol check completed
+2024-07-07 13:28:55,645 - Endpoint verification started
+2024-07-07 13:28:55,646 - Endpoint verification completed
+2024-07-07 13:28:55,647 - Main program completed
+2024-07-07 13:29:36,334 - Starting main program
+2024-07-07 13:29:36,335 - Network scan started.
+2024-07-07 13:29:37,885 - Network scan completed.
+2024-07-07 13:29:37,886 - Scan duration: 0:00:01.549282
+2024-07-07 13:29:37,892 - MITM detection started
+2024-07-07 13:29:37,893 - MITM detection completed
+2024-07-07 13:29:37,893 - Secure protocol check started
+2024-07-07 13:29:37,894 - Secure protocol check completed
+2024-07-07 13:29:37,895 - Endpoint verification started
+2024-07-07 13:29:37,895 - Endpoint verification completed
+2024-07-07 13:29:37,896 - Main program completed
+2024-07-07 13:31:43,727 - Starting main program
+2024-07-07 13:31:43,728 - Network scan started.
+2024-07-07 13:31:45,288 - Network scan completed.
+2024-07-07 13:31:45,289 - Scan duration: 0:00:01.559942
+2024-07-07 13:31:45,299 - MITM detection started
+2024-07-07 13:31:45,300 - MITM detection completed
+2024-07-07 13:31:45,300 - Secure protocol check started
+2024-07-07 13:31:45,301 - Secure protocol check completed
+2024-07-07 13:31:45,302 - Endpoint verification started
+2024-07-07 13:31:45,302 - Endpoint verification completed
+2024-07-07 13:31:45,303 - Main program completed
+2024-07-07 13:32:58,762 - Starting main program
+2024-07-07 13:32:58,764 - Network scan started.
+2024-07-07 13:33:00,324 - Network scan completed.
+2024-07-07 13:33:00,325 - Scan duration: 0:00:01.560845
+2024-07-07 13:33:00,330 - MITM detection started
+2024-07-07 13:33:00,331 - MITM detection completed
+2024-07-07 13:33:00,332 - Secure protocol check started
+2024-07-07 13:33:00,333 - Secure protocol check completed
+2024-07-07 13:33:00,333 - Endpoint verification started
+2024-07-07 13:33:00,334 - Endpoint verification completed
+2024-07-07 13:33:00,334 - Main program completed
+2024-07-07 13:35:48,963 - Starting main program
+2024-07-07 13:35:48,964 - Network scan started.
+2024-07-07 13:35:50,553 - Network scan completed.
+2024-07-07 13:35:50,555 - Scan duration: 0:00:01.589630
+2024-07-07 13:35:50,560 - MITM detection started
+2024-07-07 13:35:50,561 - MITM detection completed
+2024-07-07 13:35:50,562 - Secure protocol check started
+2024-07-07 13:35:50,563 - Secure protocol check completed
+2024-07-07 13:35:50,564 - Endpoint verification started
+2024-07-07 13:35:50,564 - Endpoint verification completed
+2024-07-07 13:35:50,565 - Main program completed
+2024-07-07 13:36:23,164 - Starting main program
+2024-07-07 13:36:23,165 - Network scan started.
+2024-07-07 13:36:24,678 - Network scan completed.
+2024-07-07 13:36:24,679 - Scan duration: 0:00:01.513573
+2024-07-07 13:36:24,685 - MITM detection started
+2024-07-07 13:36:24,686 - MITM detection completed
+2024-07-07 13:36:24,686 - Secure protocol check started
+2024-07-07 13:36:24,687 - Secure protocol check completed
+2024-07-07 13:36:24,688 - Endpoint verification started
+2024-07-07 13:36:24,689 - Endpoint verification completed
+2024-07-07 13:36:24,689 - Main program completed
+2024-07-07 13:37:13,161 - Starting main program
+2024-07-07 13:37:13,163 - Network scan started.
+2024-07-07 13:37:14,691 - Network scan completed.
+2024-07-07 13:37:14,691 - Scan duration: 0:00:01.527327
+2024-07-07 13:37:14,697 - MITM detection started
+2024-07-07 13:37:14,698 - MITM detection completed
+2024-07-07 13:37:14,698 - Secure protocol check started
+2024-07-07 13:37:14,699 - Secure protocol check completed
+2024-07-07 13:37:14,700 - Endpoint verification started
+2024-07-07 13:37:14,701 - Endpoint verification completed
+2024-07-07 13:37:14,701 - Main program completed
+2024-07-07 13:38:20,533 - Starting main program
+2024-07-07 13:38:20,534 - Network scan started.
+2024-07-07 13:38:22,063 - Network scan completed.
+2024-07-07 13:38:22,064 - Scan duration: 0:00:01.528680
+2024-07-07 13:38:22,068 - MITM detection started
+2024-07-07 13:38:22,069 - MITM detection completed
+2024-07-07 13:38:22,070 - Secure protocol check started
+2024-07-07 13:38:22,071 - Secure protocol check completed
+2024-07-07 13:38:22,071 - Endpoint verification started
+2024-07-07 13:38:22,072 - Endpoint verification completed
+2024-07-07 13:38:22,073 - Main program completed
+2024-07-07 13:41:10,870 - Starting main program
+2024-07-07 13:41:10,871 - Network scan started.
+2024-07-07 13:41:12,341 - Network scan completed.
+2024-07-07 13:41:12,342 - Scan duration: 0:00:01.469494
+2024-07-07 13:41:12,348 - MITM detection started
+2024-07-07 13:41:12,349 - MITM detection completed
+2024-07-07 13:41:12,350 - Secure protocol check started
+2024-07-07 13:41:12,350 - Secure protocol check completed
+2024-07-07 13:41:12,351 - Endpoint verification started
+2024-07-07 13:41:12,351 - Endpoint verification completed
+2024-07-07 13:41:12,353 - Main program completed
+2024-07-07 13:43:14,153 - Starting main program
+2024-07-07 13:43:14,154 - Network scan started.
+2024-07-07 13:43:15,674 - Network scan completed.
+2024-07-07 13:43:15,675 - Scan duration: 0:00:01.519501
+2024-07-07 13:43:15,679 - MITM detection started
+2024-07-07 13:43:15,680 - MITM detection completed
+2024-07-07 13:43:15,680 - Secure protocol check started
+2024-07-07 13:43:15,681 - Secure protocol check completed
+2024-07-07 13:43:15,682 - Endpoint verification started
+2024-07-07 13:43:15,683 - Endpoint verification completed
+2024-07-07 13:43:15,683 - Main program completed
+2024-07-07 13:44:54,539 - Network scan started.
+2024-07-07 13:44:56,087 - Network scan completed.
+2024-07-07 13:44:56,088 - Scan duration: 0:00:01.548187
+2024-07-07 13:46:35,266 - Network scan started.
+2024-07-07 13:46:36,807 - Network scan completed.
+2024-07-07 13:46:36,809 - Scan duration: 0:00:01.540805
+2024-07-07 13:49:44,088 - Starting main program
+2024-07-07 13:49:44,089 - Network scan started.
+2024-07-07 13:49:45,640 - Network scan completed.
+2024-07-07 13:49:45,641 - Scan duration: 0:00:01.550709
+2024-07-07 13:49:45,644 - MITM detection started
+2024-07-07 13:49:45,645 - MITM detection completed
+2024-07-07 13:49:45,646 - Secure protocol check started
+2024-07-07 13:49:45,647 - Secure protocol check completed
+2024-07-07 13:49:45,648 - Endpoint verification started
+2024-07-07 13:49:45,648 - Endpoint verification completed
+2024-07-07 13:49:45,650 - Main program completed
+2024-07-07 13:50:07,850 - Starting main program
+2024-07-07 13:50:07,851 - Network scan started.
+2024-07-07 13:50:13,420 - Network scan completed.
+2024-07-07 13:50:13,420 - Scan duration: 0:00:05.568581
+2024-07-07 13:50:13,421 - MITM detection started
+2024-07-07 13:50:13,422 - MITM detection completed
+2024-07-07 13:50:13,422 - Secure protocol check started
+2024-07-07 13:50:13,423 - Secure protocol check completed
+2024-07-07 13:50:13,423 - Endpoint verification started
+2024-07-07 13:50:13,424 - Endpoint verification completed
+2024-07-07 13:50:13,424 - Main program completed
+2024-07-07 13:50:35,883 - Starting main program
+2024-07-07 13:50:35,884 - Network scan started.
+2024-07-07 13:50:37,347 - Network scan completed.
+2024-07-07 13:50:37,348 - Scan duration: 0:00:01.462449
+2024-07-07 13:50:37,349 - MITM detection started
+2024-07-07 13:50:37,349 - MITM detection completed
+2024-07-07 13:50:37,350 - Secure protocol check started
+2024-07-07 13:50:37,351 - Secure protocol check completed
+2024-07-07 13:50:37,351 - Endpoint verification started
+2024-07-07 13:50:37,352 - Endpoint verification completed
+2024-07-07 13:50:37,352 - Main program completed
+2024-07-07 14:07:18,482 - Starting main program
+2024-07-07 14:07:18,483 - Network scan started.
+2024-07-07 14:07:19,984 - Network scan completed.
+2024-07-07 14:07:19,984 - Scan duration: 0:00:01.500998
+2024-07-07 14:07:19,986 - MITM detection started
+2024-07-07 14:07:19,986 - MITM detection completed
+2024-07-07 14:07:19,987 - Secure protocol check started
+2024-07-07 14:07:19,987 - Secure protocol check completed
+2024-07-07 14:07:19,988 - Endpoint verification started
+2024-07-07 14:07:19,989 - Endpoint verification completed
+2024-07-07 14:07:19,989 - Main program completed
+2024-07-07 14:07:58,795 - Starting main program
+2024-07-07 14:07:58,796 - Network scan started.
+2024-07-07 14:08:00,343 - Network scan completed.
+2024-07-07 14:08:00,344 - Scan duration: 0:00:01.546692
+2024-07-07 14:08:00,345 - MITM detection started
+2024-07-07 14:08:00,346 - MITM detection completed
+2024-07-07 14:08:00,347 - Secure protocol check started
+2024-07-07 14:08:00,347 - Secure protocol check completed
+2024-07-07 14:08:00,348 - Endpoint verification started
+2024-07-07 14:08:00,348 - Endpoint verification completed
+2024-07-07 14:08:00,349 - Main program completed
+2024-07-07 14:09:42,746 - Starting main program
+2024-07-07 14:09:42,747 - Network scan started.
+2024-07-07 14:09:52,310 - Network scan completed.
+2024-07-07 14:09:52,312 - Scan duration: 0:00:09.563982
+2024-07-07 14:09:52,313 - MITM detection started
+2024-07-07 14:09:52,314 - MITM detection completed
+2024-07-07 14:09:52,315 - Secure protocol check started
+2024-07-07 14:09:52,315 - Secure protocol check completed
+2024-07-07 14:09:52,316 - Endpoint verification started
+2024-07-07 14:09:52,316 - Endpoint verification completed
+2024-07-07 14:09:52,317 - Main program completed
+2024-07-07 14:10:58,701 - Network scan started.
+2024-07-07 14:11:00,285 - Network scan completed.
+2024-07-07 14:11:00,286 - Scan duration: 0:00:01.583368
+2024-07-07 14:12:53,246 - Network scan started.
+2024-07-07 14:12:54,876 - Network scan completed.
+2024-07-07 14:12:54,877 - Scan duration: 0:00:01.629837
+2024-07-07 14:13:30,005 - Network scan started.
+2024-07-07 14:13:31,591 - Network scan completed.
+2024-07-07 14:13:31,592 - Scan duration: 0:00:01.585698
+2024-07-07 14:13:47,414 - Starting main program
+2024-07-07 14:13:47,415 - Network scan started.
+2024-07-07 14:13:49,010 - Network scan completed.
+2024-07-07 14:13:49,011 - Scan duration: 0:00:01.595456
+2024-07-07 14:13:49,012 - MITM detection started
+2024-07-07 14:13:49,012 - MITM detection completed
+2024-07-07 14:13:49,014 - Secure protocol check started
+2024-07-07 14:13:49,015 - Secure protocol check completed
+2024-07-07 14:13:49,015 - Endpoint verification started
+2024-07-07 14:13:49,016 - Endpoint verification completed
+2024-07-07 14:13:49,017 - Main program completed
+2024-07-07 14:18:00,523 - Network scan started.
+2024-07-07 14:18:02,053 - Network scan completed.
+2024-07-07 14:18:02,053 - Scan duration: 0:00:01.529445
+2024-07-07 14:20:15,667 - MITM detection started.
+2024-07-07 14:21:47,849 - MITM detection completed.
+2024-07-07 14:21:47,850 - Detection duration: 0:01:32.181688
+2024-07-07 14:25:23,353 - MITM detection started.
+2024-07-07 14:26:35,906 - MITM detection completed.
+2024-07-07 14:26:35,907 - Detection duration: 0:01:12.553193
+2024-07-07 14:29:26,610 - MITM detection started.
+2024-07-07 14:33:43,575 - MITM detection completed.
+2024-07-07 14:33:43,575 - Detection duration: 0:04:16.964111
+2024-07-07 14:43:34,555 - MITM detection started.
+2024-07-07 14:44:53,192 - MITM detection started.
+2024-07-07 14:47:00,119 - MITM detection started.
+2024-07-07 14:48:00,156 - No MITM attacks were detected.
+2024-07-07 14:48:00,158 - MITM detection completed.
+2024-07-07 14:48:00,159 - Detection duration: 0:01:00.039384
+2024-07-07 14:59:32,053 - MITM detection started.
+2024-07-07 14:59:32,155 - [!] Possible MITM attack detected! Real MAC: 00:50:56:fd:55:bd, Fake MAC: 00:50:56:2a:bb:f5
+2024-07-07 14:59:34,127 - [!] Possible MITM attack detected! Real MAC: 00:50:56:2a:bb:f5, Fake MAC: 00:50:56:fd:55:bd
+2024-07-07 14:59:34,179 - [!] Possible MITM attack detected! Real MAC: 00:50:56:fd:55:bd, Fake MAC: 00:50:56:2a:bb:f5
+2024-07-07 14:59:36,231 - [!] Possible MITM attack detected! Real MAC: 00:50:56:fd:55:bd, Fake MAC: 00:50:56:2a:bb:f5
+2024-07-07 14:59:38,315 - [!] Possible MITM attack detected! Real MAC: 00:50:56:fd:55:bd, Fake MAC: 00:50:56:2a:bb:f5
+2024-07-07 14:59:40,371 - [!] Possible MITM attack detected! Real MAC: 00:50:56:fd:55:bd, Fake MAC: 00:50:56:2a:bb:f5
+2024-07-07 14:59:42,135 - [!] Possible MITM attack detected! Real MAC: 00:50:56:2a:bb:f5, Fake MAC: 00:50:56:fd:55:bd
+2024-07-07 14:59:42,439 - [!] Possible MITM attack detected! Real MAC: 00:50:56:fd:55:bd, Fake MAC: 00:50:56:2a:bb:f5
+2024-07-07 14:59:44,499 - [!] Possible MITM attack detected! Real MAC: 00:50:56:fd:55:bd, Fake MAC: 00:50:56:2a:bb:f5
+2024-07-07 14:59:46,519 - [!] Possible MITM attack detected! Real MAC: 00:50:56:fd:55:bd, Fake MAC: 00:50:56:2a:bb:f5
+2024-07-07 14:59:48,571 - [!] Possible MITM attack detected! Real MAC: 00:50:56:fd:55:bd, Fake MAC: 00:50:56:2a:bb:f5
+2024-07-07 14:59:50,631 - [!] Possible MITM attack detected! Real MAC: 00:50:56:fd:55:bd, Fake MAC: 00:50:56:2a:bb:f5
+2024-07-07 14:59:52,639 - [!] Possible MITM attack detected! Real MAC: 00:50:56:fd:55:bd, Fake MAC: 00:50:56:2a:bb:f5
+2024-07-07 14:59:54,631 - [!] Possible MITM attack detected! Real MAC: 00:50:56:fd:55:bd, Fake MAC: 00:50:56:2a:bb:f5
+2024-07-07 14:59:56,723 - [!] Possible MITM attack detected! Real MAC: 00:50:56:fd:55:bd, Fake MAC: 00:50:56:2a:bb:f5
+2024-07-07 14:59:58,699 - [!] Possible MITM attack detected! Real MAC: 00:50:56:fd:55:bd, Fake MAC: 00:50:56:2a:bb:f5
+2024-07-07 15:00:00,887 - [!] Possible MITM attack detected! Real MAC: 00:50:56:fd:55:bd, Fake MAC: 00:50:56:2a:bb:f5
+2024-07-07 15:00:02,827 - [!] Possible MITM attack detected! Real MAC: 00:50:56:fd:55:bd, Fake MAC: 00:50:56:2a:bb:f5
+2024-07-07 15:00:05,903 - [!] Possible MITM attack detected! Real MAC: 00:50:56:fd:55:bd, Fake MAC: 00:50:56:2a:bb:f5
+2024-07-07 15:00:06,967 - [!] Possible MITM attack detected! Real MAC: 00:50:56:fd:55:bd, Fake MAC: 00:50:56:2a:bb:f5
+2024-07-07 15:00:08,939 - [!] Possible MITM attack detected! Real MAC: 00:50:56:fd:55:bd, Fake MAC: 00:50:56:2a:bb:f5
+2024-07-07 15:00:11,063 - [!] Possible MITM attack detected! Real MAC: 00:50:56:fd:55:bd, Fake MAC: 00:50:56:2a:bb:f5
+2024-07-07 15:00:13,147 - [!] Possible MITM attack detected! Real MAC: 00:50:56:fd:55:bd, Fake MAC: 00:50:56:2a:bb:f5
+2024-07-07 15:00:15,115 - [!] Possible MITM attack detected! Real MAC: 00:50:56:fd:55:bd, Fake MAC: 00:50:56:2a:bb:f5
+2024-07-07 15:00:17,211 - [!] Possible MITM attack detected! Real MAC: 00:50:56:fd:55:bd, Fake MAC: 00:50:56:2a:bb:f5
+2024-07-07 15:00:19,207 - [!] Possible MITM attack detected! Real MAC: 00:50:56:fd:55:bd, Fake MAC: 00:50:56:2a:bb:f5
+2024-07-07 15:00:20,147 - [!] Possible MITM attack detected! Real MAC: 00:50:56:2a:bb:f5, Fake MAC: 00:50:56:fd:55:bd
+2024-07-07 15:00:21,248 - [!] Possible MITM attack detected! Real MAC: 00:50:56:fd:55:bd, Fake MAC: 00:50:56:2a:bb:f5
+2024-07-07 15:00:23,183 - [!] Possible MITM attack detected! Real MAC: 00:50:56:fd:55:bd, Fake MAC: 00:50:56:2a:bb:f5
+2024-07-07 15:00:25,623 - [!] Possible MITM attack detected! Real MAC: 00:50:56:fd:55:bd, Fake MAC: 00:50:56:2a:bb:f5
+2024-07-07 15:00:27,631 - [!] Possible MITM attack detected! Real MAC: 00:50:56:fd:55:bd, Fake MAC: 00:50:56:2a:bb:f5
+2024-07-07 15:00:29,688 - [!] Possible MITM attack detected! Real MAC: 00:50:56:fd:55:bd, Fake MAC: 00:50:56:2a:bb:f5
+2024-07-07 15:00:31,671 - [!] Possible MITM attack detected! Real MAC: 00:50:56:fd:55:bd, Fake MAC: 00:50:56:2a:bb:f5
+2024-07-07 15:00:32,117 - MITM detection completed.
+2024-07-07 15:00:32,118 - Detection duration: 0:01:00.064547
+2024-07-07 15:08:22,236 - Starting main program
+2024-07-07 15:08:22,237 - Network scan started.
+2024-07-07 15:08:23,860 - Network scan completed.
+2024-07-07 15:08:23,861 - Scan duration: 0:00:01.623417
+2024-07-07 15:13:03,541 - Starting main program
+2024-07-07 15:13:03,542 - Network scan started.
+2024-07-07 15:13:05,054 - Network scan completed.
+2024-07-07 15:13:05,055 - Scan duration: 0:00:01.512833
+2024-07-07 15:14:05,149 - Secure protocol check started
+2024-07-07 15:14:05,150 - Secure protocol check completed
+2024-07-07 15:14:05,151 - Endpoint verification started
+2024-07-07 15:14:05,151 - Endpoint verification completed
+2024-07-07 15:14:05,152 - Main program completed
+2024-07-07 15:18:33,885 - Starting MITM detection...
+2024-07-07 15:19:03,948 - MITM detection completed.
+2024-07-07 15:19:49,845 - Starting MITM detection...
+2024-07-07 15:20:19,901 - MITM detection completed.
+2024-07-07 15:21:52,550 - Starting MITM detection...
+2024-07-07 15:22:22,624 - MITM detection completed.
+2024-07-07 15:22:54,524 - Starting MITM detection...
+2024-07-07 15:23:24,620 - MITM detection completed.
+2024-07-07 15:24:52,392 - Starting MITM detection...
+2024-07-07 15:25:22,476 - MITM detection completed.
+2024-07-07 15:27:33,473 - Starting MITM detection...
+2024-07-07 15:28:03,545 - MITM detection completed.
+2024-07-07 15:35:23,036 - Starting secure protocol check...
+2024-07-07 15:35:23,039 - Port 22: CLOSED - No secure protocol detected.
+2024-07-07 15:35:23,041 - Port 80: CLOSED - No secure protocol detected.
+2024-07-07 15:35:23,050 - Port 443: CLOSED - No secure protocol detected.
+2024-07-07 15:35:23,051 - Secure protocol check completed.
+2024-07-07 15:49:58,637 - http://192.168.133.135 is using HTTPS.
+2024-07-07 15:49:58,642 - Error accessing https://192.168.133.135: HTTPSConnectionPool(host='192.168.133.135', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f599c5ee450>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-07 15:49:58,916 - Error verifying TLS certificate for 192.168.133.135: [Errno 111] Connection refused
+2024-07-07 15:49:58,930 - http://192.168.133.135 is using HTTPS.
+2024-07-07 15:49:58,935 - Error accessing https://192.168.133.135: HTTPSConnectionPool(host='192.168.133.135', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f599c1a0290>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-07 15:49:58,956 - Error verifying TLS certificate for 192.168.133.135: [Errno 111] Connection refused
+2024-07-07 15:50:13,432 - http://192.168.133.135 is using HTTPS.
+2024-07-07 15:50:13,437 - Error accessing https://192.168.133.135: HTTPSConnectionPool(host='192.168.133.135', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc7360c4090>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-07 15:50:13,476 - Error verifying TLS certificate for 192.168.133.135: [Errno 111] Connection refused
+2024-07-07 15:50:13,484 - http://192.168.133.135 is using HTTPS.
+2024-07-07 15:50:13,489 - Error accessing https://192.168.133.135: HTTPSConnectionPool(host='192.168.133.135', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc7360c45d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-07 15:50:13,511 - Error verifying TLS certificate for 192.168.133.135: [Errno 111] Connection refused
+2024-07-07 15:54:41,474 - http://192.168.133.135 is using HTTPS.
+2024-07-07 15:54:41,531 - https://192.168.133.135 is not using HTTPS.
+2024-07-07 15:54:41,559 - Error verifying TLS certificate for 192.168.133.135: [SSL] record layer failure (_ssl.c:1006)
+2024-07-07 15:54:41,568 - http://192.168.133.135 is using HTTPS.
+2024-07-07 15:54:41,602 - https://192.168.133.135 is not using HTTPS.
+2024-07-07 15:54:41,633 - Error verifying TLS certificate for 192.168.133.135: [SSL] record layer failure (_ssl.c:1006)
+2024-07-07 15:55:17,899 - http://192.168.133.135 is using HTTPS.
+2024-07-07 15:55:17,943 - https://192.168.133.135 is not using HTTPS.
+2024-07-07 15:55:17,971 - Error verifying TLS certificate for 192.168.133.135: [SSL] record layer failure (_ssl.c:1006)
+2024-07-07 15:55:17,979 - http://192.168.133.135 is using HTTPS.
+2024-07-07 15:55:18,008 - https://192.168.133.135 is not using HTTPS.
+2024-07-07 15:55:18,034 - Error verifying TLS certificate for 192.168.133.135: [SSL] record layer failure (_ssl.c:1006)
+2024-07-07 15:56:44,322 - http://192.168.133.135 is using HTTP.
+2024-07-07 15:56:44,372 - https://192.168.133.135 is not using HTTPS.
+2024-07-07 15:56:44,400 - Error verifying TLS certificate for 192.168.133.135: [SSL] record layer failure (_ssl.c:1006)
+2024-07-07 15:56:44,409 - http://192.168.133.135 is using HTTP.
+2024-07-07 15:56:44,451 - https://192.168.133.135 is not using HTTPS.
+2024-07-07 15:56:44,479 - Error verifying TLS certificate for 192.168.133.135: [SSL] record layer failure (_ssl.c:1006)
+2024-07-07 15:56:59,585 - https://192.168.133.135 SSL error: HTTPSConnectionPool(host='192.168.133.135', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL] record layer failure (_ssl.c:1006)')))
+2024-07-07 15:56:59,610 - Error verifying TLS certificate for 192.168.133.135: [SSL] record layer failure (_ssl.c:1006)
+2024-07-07 15:57:21,787 - https://192.168.133.135 SSL error: HTTPSConnectionPool(host='192.168.133.135', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL] record layer failure (_ssl.c:1006)')))
+2024-07-07 15:57:21,815 - Error verifying TLS certificate for 192.168.133.135: [SSL] record layer failure (_ssl.c:1006)
+2024-07-07 15:59:29,692 - https://192.168.133.135 is not using HTTPS (SSL Error).
+2024-07-07 15:59:29,718 - Error verifying TLS certificate for 192.168.133.135: [SSL] record layer failure (_ssl.c:1006)
+2024-07-07 15:59:29,748 - https://192.168.133.135 is not using HTTPS (SSL Error).
+2024-07-07 15:59:29,775 - Error verifying TLS certificate for 192.168.133.135: [SSL] record layer failure (_ssl.c:1006)
+2024-07-07 16:00:18,053 - https://192.168.133.135 is not using HTTPS (SSL Error).
+2024-07-07 16:00:18,077 - Error verifying TLS certificate for 192.168.133.135: [SSL] record layer failure (_ssl.c:1006)
+2024-07-07 16:00:18,093 - https://192.168.133.135 is not using HTTPS (SSL Error).
+2024-07-07 16:00:18,112 - Error verifying TLS certificate for 192.168.133.135: [SSL] record layer failure (_ssl.c:1006)
+2024-07-07 16:01:38,898 - https://192.168.133.135 is not using HTTPS (SSL Error).
+2024-07-07 16:01:38,925 - Error verifying TLS certificate for 192.168.133.135: [SSL] record layer failure (_ssl.c:1006)
+2024-07-07 16:01:38,953 - https://192.168.133.135 is not using HTTPS (SSL Error).
+2024-07-07 16:01:38,987 - Error verifying TLS certificate for 192.168.133.135: [SSL] record layer failure (_ssl.c:1006)
+2024-07-07 16:05:34,915 - https://192.168.133.135 is not using HTTPS (SSL Error).
+2024-07-07 16:05:34,941 - Error verifying TLS certificate for 192.168.133.135: [SSL] record layer failure (_ssl.c:1006)
+2024-07-07 16:05:34,970 - https://192.168.133.135 is not using HTTPS (SSL Error).
+2024-07-07 16:05:35,001 - Error verifying TLS certificate for 192.168.133.135: [SSL] record layer failure (_ssl.c:1006)
+2024-07-07 16:10:34,406 - Network scan started.
+2024-07-07 16:10:36,023 - Network scan completed.
+2024-07-07 16:10:36,023 - Scan duration: 0:00:01.616658
+2024-07-07 16:11:37,675 - Network scan started.
+2024-07-07 16:11:39,236 - Network scan completed.
+2024-07-07 16:11:39,237 - Scan duration: 0:00:01.560723
+2024-07-07 16:20:52,180 - Starting main program
+2024-07-07 16:20:52,181 - Network scan started.
+2024-07-07 16:20:53,732 - Network scan completed.
+2024-07-07 16:20:53,733 - Scan duration: 0:00:01.549079
+2024-07-07 16:20:53,733 - Starting MITM detection...
+2024-07-07 16:21:23,789 - MITM detection completed.
+2024-07-07 16:21:23,830 - https://192.168.133.135 is not using HTTPS (SSL Error).
+2024-07-07 16:21:23,831 - Endpoint verification started
+2024-07-07 16:21:23,832 - Endpoint verification completed
+2024-07-07 16:21:23,832 - Main program completed
+2024-07-07 16:24:19,056 - https://192.168.133.135 is not using HTTPS (SSL Error).
+2024-07-07 16:24:19,083 - Error verifying TLS certificate for 192.168.133.135: [SSL] record layer failure (_ssl.c:1006)
+2024-07-07 16:24:19,112 - https://192.168.133.135 is not using HTTPS (SSL Error).
+2024-07-07 16:24:19,138 - Error verifying TLS certificate for 192.168.133.135: [SSL] record layer failure (_ssl.c:1006)
+2024-07-07 16:25:26,518 - Starting main program
+2024-07-07 16:25:26,519 - Network scan started.
+2024-07-07 16:25:27,986 - Network scan completed.
+2024-07-07 16:25:27,987 - Scan duration: 0:00:01.467543
+2024-07-07 16:25:27,988 - Starting MITM detection...
+2024-07-07 16:25:58,065 - MITM detection completed.
+2024-07-07 16:25:58,116 - https://192.168.133.135 is not using HTTPS (SSL Error).
+2024-07-07 16:25:58,118 - Endpoint verification started
+2024-07-07 16:25:58,119 - Endpoint verification completed
+2024-07-07 16:25:58,120 - Main program completed
+2024-07-07 16:29:11,284 - https://192.168.133.135 is not using HTTPS (SSL Error: HTTPSConnectionPool(host='192.168.133.135', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL] record layer failure (_ssl.c:1006)')))).
+2024-07-07 16:29:11,312 - Error verifying TLS certificate for 192.168.133.135: [SSL] record layer failure (_ssl.c:1006)
+2024-07-07 16:29:11,342 - https://192.168.133.135 is not using HTTPS (SSL Error: HTTPSConnectionPool(host='192.168.133.135', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL] record layer failure (_ssl.c:1006)')))).
+2024-07-07 16:29:11,368 - Error verifying TLS certificate for 192.168.133.135: [SSL] record layer failure (_ssl.c:1006)
+2024-07-07 16:29:57,260 - https://192.168.133.135 is not using HTTPS (SSL Error: HTTPSConnectionPool(host='192.168.133.135', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL] record layer failure (_ssl.c:1006)')))).
+2024-07-07 16:29:57,287 - Error verifying TLS certificate for 192.168.133.135: [SSL] record layer failure (_ssl.c:1006)
+2024-07-07 16:29:57,316 - https://192.168.133.135 is not using HTTPS (SSL Error: HTTPSConnectionPool(host='192.168.133.135', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL] record layer failure (_ssl.c:1006)')))).
+2024-07-07 16:29:57,343 - Error verifying TLS certificate for 192.168.133.135: [SSL] record layer failure (_ssl.c:1006)
+2024-07-07 16:30:28,081 - Starting main program
+2024-07-07 16:30:28,082 - Network scan started.
+2024-07-07 16:30:29,667 - Network scan completed.
+2024-07-07 16:30:29,668 - Scan duration: 0:00:01.585831
+2024-07-07 16:30:29,669 - Starting MITM detection...
+2024-07-07 16:30:59,713 - MITM detection completed.
+2024-07-07 16:30:59,762 - https://192.168.133.135 is not using HTTPS (SSL Error: HTTPSConnectionPool(host='192.168.133.135', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL] record layer failure (_ssl.c:1006)')))).
+2024-07-07 16:30:59,764 - Endpoint verification started
+2024-07-07 16:30:59,766 - Endpoint verification completed
+2024-07-07 16:30:59,767 - Main program completed
+2024-07-07 16:32:24,684 - https://192.168.133.135 is not using HTTPS (SSL Error: HTTPSConnectionPool(host='192.168.133.135', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL] record layer failure (_ssl.c:1006)')))).
+2024-07-07 16:32:24,710 - Error verifying TLS certificate for 192.168.133.135: [SSL] record layer failure (_ssl.c:1006)
+2024-07-07 16:32:24,737 - https://192.168.133.135 is not using HTTPS (SSL Error: HTTPSConnectionPool(host='192.168.133.135', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL] record layer failure (_ssl.c:1006)')))).
+2024-07-07 16:32:24,765 - Error verifying TLS certificate for 192.168.133.135: [SSL] record layer failure (_ssl.c:1006)
+2024-07-07 16:32:47,830 - https://192.168.133.135 is not using HTTPS (SSL Error).
+2024-07-07 16:32:47,854 - Error verifying TLS certificate for 192.168.133.135: [SSL] record layer failure (_ssl.c:1006)
+2024-07-07 16:32:47,883 - https://192.168.133.135 is not using HTTPS (SSL Error).
+2024-07-07 16:32:47,909 - Error verifying TLS certificate for 192.168.133.135: [SSL] record layer failure (_ssl.c:1006)
+2024-07-07 16:43:40,490 - 192.168.133.137 is reachable.
+2024-07-07 16:43:40,545 - Error verifying TLS certificate for 192.168.133.137: [Errno 111] Connection refused
+2024-07-07 16:44:24,517 - 192.168.133.137 is reachable.
+2024-07-07 16:44:24,570 - Error verifying TLS certificate for 192.168.133.137: [Errno 111] Connection refused
+2024-07-07 16:45:17,007 - 192.168.133.137 is reachable.
+2024-07-07 16:45:17,061 - Socket error: [Errno 111] Connection refused
+2024-07-07 16:45:38,709 - 192.168.133.137 is reachable.
+2024-07-07 16:45:38,763 - Error verifying TLS certificate for 192.168.133.137: [Errno 111] Connection refused
+2024-07-07 16:47:00,104 - Starting main program
+2024-07-07 16:47:00,105 - Network scan started.
+2024-07-07 16:47:01,682 - Network scan completed.
+2024-07-07 16:47:01,683 - Scan duration: 0:00:01.578136
+2024-07-07 16:47:01,684 - Starting MITM detection...
+2024-07-07 16:47:31,765 - MITM detection completed.
+2024-07-07 16:47:31,814 - https://192.168.133.135 is not using HTTPS (SSL Error).
+2024-07-07 16:49:54,323 - Starting main program
+2024-07-07 16:49:54,324 - Network scan started.
+2024-07-07 16:49:55,853 - Network scan completed.
+2024-07-07 16:49:55,854 - Scan duration: 0:00:01.528954
+2024-07-07 16:49:55,855 - Starting MITM detection...
+2024-07-07 16:50:25,912 - MITM detection completed.
+2024-07-07 16:50:25,961 - https://192.168.133.135 is not using HTTPS (SSL Error).
+2024-07-07 16:50:25,980 - 192.168.133.137 is reachable.
+2024-07-07 16:50:26,004 - Error verifying TLS certificate for 192.168.133.137: [Errno 111] Connection refused
+2024-07-07 16:50:26,006 - Main program completed
+2024-07-07 16:50:47,130 - Generating report...
+2024-07-07 16:50:47,131 - Report generated
+2024-07-07 16:50:50,369 - Generating report...
+2024-07-07 16:50:50,370 - Report generated
+2024-07-07 16:54:06,197 - 192.168.133.137 is reachable.
+2024-07-07 16:54:06,249 - Error verifying TLS certificate for 192.168.133.137: [Errno 111] Connection refused
+2024-07-07 17:10:57,109 - Starting main program
+2024-07-07 17:10:57,110 - Network scan started.
+2024-07-07 17:10:58,603 - Network scan completed.
+2024-07-07 17:10:58,604 - Scan duration: 0:00:01.492552
+2024-07-07 17:10:58,604 - Starting MITM detection...
+2024-07-07 17:11:28,645 - MITM detection completed.
+2024-07-07 17:11:28,696 - https://192.168.133.135 is not using HTTPS (SSL Error).
+2024-07-07 17:11:28,719 - 192.168.133.137 is reachable.
+2024-07-07 17:11:28,743 - Error verifying TLS certificate for 192.168.133.137: [Errno 111] Connection refused
+2024-07-07 17:11:28,747 - Main program completed
+2024-07-14 07:49:48,787 - Starting main program
+2024-07-14 07:49:48,788 - Network scan started.
+2024-07-14 07:49:49,628 - Network scan completed.
+2024-07-14 07:49:49,628 - Scan duration: 0:00:00.840246
+2024-07-14 07:49:49,630 - Starting MITM detection...
+2024-07-14 07:53:05,713 - Starting main program
+2024-07-14 07:53:05,714 - Network scan started.
+2024-07-14 07:53:06,168 - Network scan completed.
+2024-07-14 07:53:06,168 - Scan duration: 0:00:00.454061
+2024-07-14 07:53:06,170 - Starting MITM detection...
+2024-07-14 07:55:29,965 - Starting MITM detection...
+2024-07-14 07:57:32,073 - Starting MITM detection...
+2024-07-14 07:58:19,123 - Starting main program
+2024-07-14 07:58:19,123 - Network scan started.
+2024-07-14 07:58:19,575 - Network scan completed.
+2024-07-14 07:58:19,575 - Scan duration: 0:00:00.452242
+2024-07-14 07:58:19,577 - Starting MITM detection...
+2024-07-14 08:00:45,497 - Starting main program
+2024-07-14 08:00:45,497 - Network scan started.
+2024-07-14 08:00:58,912 - Network scan completed.
+2024-07-14 08:00:58,913 - Scan duration: 0:00:13.415507
+2024-07-14 08:00:58,915 - Starting MITM detection...
+2024-07-14 08:01:28,950 - MITM detection completed.
+2024-07-14 08:01:28,962 - Error accessing https://192.168.133.135: HTTPSConnectionPool(host='192.168.133.135', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7faa8b583990>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-14 08:01:28,975 - 192.168.133.137 is reachable.
+2024-07-14 08:01:29,005 - Error verifying TLS certificate for 192.168.133.137: [Errno 111] Connection refused
+2024-07-14 08:01:29,010 - Main program completed
+2024-07-14 08:05:02,080 - Starting main program
+2024-07-14 08:05:02,081 - Network scan started.
+2024-07-14 08:05:20,883 - Starting main program
+2024-07-14 08:05:20,884 - Network scan started.
+2024-07-14 08:05:34,311 - Network scan completed.
+2024-07-14 08:05:34,311 - Scan duration: 0:00:13.426948
+2024-07-14 08:05:34,312 - Starting MITM detection...
+2024-07-14 08:06:04,370 - MITM detection completed.
+2024-07-14 08:06:04,378 - Error accessing https://192.168.133.135: HTTPSConnectionPool(host='192.168.133.135', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f9e910466d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-07-14 08:06:04,391 - 192.168.133.137 is reachable.
+2024-07-14 08:06:04,415 - Error verifying TLS certificate for 192.168.133.137: [Errno 111] Connection refused
+2024-07-14 08:06:04,418 - Main program completed
+2024-07-14 08:10:49,029 - Network scan started.
+2024-07-14 08:11:02,467 - Network scan completed.
+2024-07-14 08:11:02,468 - Scan duration: 0:00:13.438896
+2024-07-14 08:11:10,501 - Starting main program
+2024-07-14 08:11:10,501 - Network scan started.
+2024-07-14 08:11:23,927 - Network scan completed.
+2024-07-14 08:11:23,927 - Scan duration: 0:00:13.425795
+2024-07-14 08:11:23,928 - Starting MITM detection...
+2024-07-14 08:11:53,958 - MITM detection completed.
+2024-07-14 08:11:54,071 - https://192.168.133.135 is not using HTTPS (SSL Error).
+2024-07-14 08:11:54,080 - 192.168.133.137 is reachable.
+2024-07-14 08:11:54,098 - Error verifying TLS certificate for 192.168.133.137: [Errno 111] Connection refused
+2024-07-14 08:11:54,100 - Main program completed
+2024-07-14 08:13:37,948 - Starting main program
+2024-07-14 08:13:37,949 - Network scan started.
+2024-07-14 08:13:51,362 - Network scan completed.
+2024-07-14 08:13:51,362 - Scan duration: 0:00:13.413162
+2024-07-14 08:13:51,363 - Starting MITM detection...
+2024-07-14 08:14:21,418 - MITM detection completed.
+2024-07-14 08:14:21,445 - https://192.168.133.135 is not using HTTPS (SSL Error).
+2024-07-14 08:14:21,456 - 192.168.133.137 is reachable.
+2024-07-14 08:14:21,475 - Error verifying TLS certificate for 192.168.133.137: [Errno 111] Connection refused
+2024-07-14 08:14:21,477 - Main program completed
+2024-07-14 08:15:21,478 - Starting main program
+2024-07-14 08:15:21,478 - Network scan started.
+2024-07-14 08:15:34,979 - Network scan completed.
+2024-07-14 08:15:34,979 - Scan duration: 0:00:13.500701
+2024-07-14 08:15:34,979 - Starting MITM detection...
+2024-07-14 08:16:05,006 - MITM detection completed.
+2024-07-14 08:16:05,028 - https://192.168.133.135 is not using HTTPS (SSL Error).
+2024-07-14 08:16:05,037 - 192.168.133.137 is reachable.
+2024-07-14 08:16:05,054 - Error verifying TLS certificate for 192.168.133.137: [Errno 111] Connection refused
+2024-07-14 08:16:05,057 - Main program completed
+2024-07-14 08:17:05,057 - Starting main program
+2024-07-14 08:17:05,058 - Network scan started.
+2024-07-14 08:17:18,549 - Network scan completed.
+2024-07-14 08:17:18,549 - Scan duration: 0:00:13.491442
+2024-07-14 08:17:18,550 - Starting MITM detection...
+2024-07-14 08:17:48,593 - MITM detection completed.
+2024-07-14 08:17:48,618 - https://192.168.133.135 is not using HTTPS (SSL Error).
+2024-07-14 08:17:48,628 - 192.168.133.137 is reachable.
+2024-07-14 08:17:48,646 - Error verifying TLS certificate for 192.168.133.137: [Errno 111] Connection refused
+2024-07-14 08:17:48,648 - Main program completed
+2024-07-14 08:18:48,649 - Starting main program
+2024-07-14 08:18:48,649 - Network scan started.
+2024-07-14 08:19:02,061 - Network scan completed.
+2024-07-14 08:19:02,061 - Scan duration: 0:00:13.411849
+2024-07-14 08:19:02,061 - Starting MITM detection...
+2024-07-14 08:19:32,118 - MITM detection completed.
+2024-07-14 08:19:32,139 - https://192.168.133.135 is not using HTTPS (SSL Error).
+2024-07-14 08:19:32,148 - 192.168.133.137 is reachable.
+2024-07-14 08:19:32,164 - Error verifying TLS certificate for 192.168.133.137: [Errno 111] Connection refused
+2024-07-14 08:19:32,167 - Main program completed
+2024-07-14 08:20:32,168 - Starting main program
+2024-07-14 08:20:32,168 - Network scan started.
+2024-07-14 08:20:45,600 - Network scan completed.
+2024-07-14 08:20:45,601 - Scan duration: 0:00:13.431979
+2024-07-14 08:20:45,601 - Starting MITM detection...
+2024-07-14 08:21:15,634 - MITM detection completed.
+2024-07-14 08:21:15,659 - https://192.168.133.135 is not using HTTPS (SSL Error).
+2024-07-14 08:21:15,670 - 192.168.133.137 is reachable.
+2024-07-14 08:21:15,692 - Error verifying TLS certificate for 192.168.133.137: [Errno 111] Connection refused
+2024-07-14 08:21:15,694 - Main program completed
+2024-07-14 08:22:15,695 - Starting main program
+2024-07-14 08:22:15,695 - Network scan started.
+2024-07-14 08:22:29,133 - Network scan completed.
+2024-07-14 08:22:29,133 - Scan duration: 0:00:13.437854
+2024-07-14 08:22:29,133 - Starting MITM detection...
+2024-07-14 08:22:59,174 - MITM detection completed.
+2024-07-14 08:22:59,200 - https://192.168.133.135 is not using HTTPS (SSL Error).
+2024-07-14 08:22:59,216 - 192.168.133.137 is reachable.
+2024-07-14 08:22:59,234 - Error verifying TLS certificate for 192.168.133.137: [Errno 111] Connection refused
+2024-07-14 08:22:59,236 - Main program completed
+2024-07-14 08:23:59,236 - Starting main program
+2024-07-14 08:23:59,237 - Network scan started.
+2024-07-14 08:24:12,640 - Network scan completed.
+2024-07-14 08:24:12,641 - Scan duration: 0:00:13.403663
+2024-07-14 08:24:12,641 - Starting MITM detection...
+2024-07-14 08:24:42,677 - MITM detection completed.
+2024-07-14 08:24:42,707 - https://192.168.133.135 is not using HTTPS (SSL Error).
+2024-07-14 08:24:42,723 - 192.168.133.137 is reachable.
+2024-07-14 08:24:42,741 - Error verifying TLS certificate for 192.168.133.137: [Errno 111] Connection refused
+2024-07-14 08:24:42,743 - Main program completed
+2024-07-14 08:25:42,744 - Starting main program
+2024-07-14 08:25:42,744 - Network scan started.
+2024-07-14 08:25:56,158 - Network scan completed.
+2024-07-14 08:25:56,159 - Scan duration: 0:00:13.414356
+2024-07-14 08:25:56,159 - Starting MITM detection...
+2024-07-14 08:26:26,401 - Starting main program
+2024-07-14 08:26:26,402 - Network scan started.
+2024-07-14 08:26:39,844 - Network scan completed.
+2024-07-14 08:26:39,845 - Scan duration: 0:00:13.442502
+2024-07-14 08:26:39,845 - Starting MITM detection...
